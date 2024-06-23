@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain_google_genai
+python_dotenv
+youtube_transcript_api
